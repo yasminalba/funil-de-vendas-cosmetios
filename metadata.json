@@ -1,0 +1,6 @@
+{
+  "name": "Maison Velours — Funil de Vendas, Clientes & RH para E-commerce de Cosméticos",
+  "description": "Sistema completo de Funil de Vendas em Kanban, Base de Clientes e Gestão de Férias (RH) com controle de acesso RBAC para e-commerce de cosméticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
